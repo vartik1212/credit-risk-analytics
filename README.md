@@ -7,7 +7,7 @@ Live Dashboard Previews
 Page 1: Portfolio Risk and Default Monitoring (Executive View)
 Designed for Chief Risk Officers and credit policy committees to evaluate balance sheet exposure, vintage cycles, and macro concentration risk.
 
-![Portfolio Risk Overview](assets/page1_portfolio_overview.png)
+![Portfolio Risk Overview](https://github.com/vartik1212/credit-risk-analytics/blob/main/assets/page1.png)
 
 - Portfolio Metrics: Monitors $19.39B in aggregate exposure, $4.18B in realized default losses, and a 19.97% baseline default rate.
 - Vintage and Volume Trends: Visualizes loan origination growth alongside historical default rate spikes from 2007 through 2018.
