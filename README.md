@@ -19,7 +19,7 @@ Designed for Chief Risk Officers and credit policy committees to evaluate balanc
 Page 2: Credit Underwriting Triage Engine (Operational Queue)
 Designed for underwriting leads and credit analysts to automate routine decisions and prioritize ambiguous, capital-heavy files.
 
-![Underwriting Triage](assets/page2_underwriting_triage.png)
+![Underwriting Triage](assets/page2.png)
 
 - Automated Decision Routing: Classifies incoming pipeline into Auto-Approve, Auto-Decline, and Manual Review streams.
 - Borrower Quality Indicators: Dynamic queue-level KPIs showing average DTI (20.29%), average FICO score (691.56), and total capital pending underwriter review ($10.87B).
