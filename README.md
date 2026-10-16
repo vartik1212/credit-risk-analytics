@@ -1,3 +1,7 @@
+## 📄 Interactive Project Previews
+* 📑 **[View Full 2-Page Executive Dashboard (PDF)] **
+* 📥 **[Download Source .pbix Model](https://github.com/vartik1212/credit-risk-analytics/raw/main/Loan_default.pbix)**
+
 \# 🏦 Retail Credit Risk Analytics \& Automated Underwriting Engine
 
 
